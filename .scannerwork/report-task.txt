@@ -1,0 +1,6 @@
+projectKey=cshatest
+serverUrl=http://localhost:9000
+serverVersion=9.6.0.59041
+dashboardUrl=http://localhost:9000/dashboard?id=cshatest
+ceTaskId=AYLHHXe-KGsdBl-wDiqq
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYLHHXe-KGsdBl-wDiqq
